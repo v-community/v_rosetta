@@ -1,5 +1,5 @@
 # [V Rosetta]
-> The Collection of V programs written to solve tasks on [RosettaCode](rosettacode.org). 
+> The Collection of V programs written to solve tasks on [Rosetta Code]. 
 
 
 ## Contributing
@@ -31,3 +31,4 @@ This project is licensed under the [MIT](/LICENSE) license.
 
 [!!]:()
 [V Rosetta]: http://rosettacode.org/wiki/Category:Vlang
+[Rosetta Code]: http://rosettacode.org
