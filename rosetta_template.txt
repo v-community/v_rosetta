@@ -1,4 +1,0 @@
-=={{header|Vlang}}==
-<lang vlang>* Paste Code Here *</lang>
-{{out}}
-<pre>* Paste Results of Task if applicable *</pre>

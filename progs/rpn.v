@@ -29,10 +29,14 @@ fn (s mut Stack) pop() ?f32 {
 
 fn (s Stack) peek() ?f32 {
         if s.depth > 0 {
-                result := s.data[0]
+                result := s.data[s.depth-1]
                 return result
         }
         return error('Out of Bounds...')
+}
+
+fn (s Stack) empty() bool {
+    return s.depth == 0
 }
 
 fn (s mut Stack) rpn(input string) ?f32 {
