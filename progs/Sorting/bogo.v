@@ -13,7 +13,8 @@ fn shuffle(arr mut []int) {
 }
 
 fn is_sorted(arr []int) bool {
-	for i := 0; i < arr.len; i++ {
+	for i := 0; i < arr.len - 1; i++ {
+         if arr[i] > arr[i + 1] {
 			return false
 		}
 	}
