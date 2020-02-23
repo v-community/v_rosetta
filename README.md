@@ -1,5 +1,7 @@
-# V_Rosetta
+# [V_Rosetta]
 > The Collection of V programs written to solve tasks on [RosettaCode](rosettacode.org). 
+
+
 ## Contributing
 * [V](github.com/vlang/v) is listed as Vlang. V was taken already.
 * A template file is provided for entries on your task's page; _rosetta.txt_. Feel free to use it.
@@ -23,3 +25,7 @@ This project is licensed under the [MIT](/LICENSE) license.
 * Thundergnat    (rosettacode)
 * Rustem b       (rosettacode)
 * adlesh         (github)  
+
+
+[!!]:()
+[V_Rosetta]: http://rosettacode.org/wiki/Category:Vlang
