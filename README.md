@@ -13,10 +13,13 @@
 * If possible:
     * try to include a main method where you print to console
     * or include some kind of graphic to demonstrate the result
+* Put files in a subdirectory as equivalent to the task listing on RC
+    * i.e. On RC, Averages/Pythagorean Means => progs/Averages/pyth_means.v
 ### License
 This project is licensed under the [MIT](/LICENSE) license.
-Contributors
-Codingconcepts (rosettacode)
-Thundergnat    (rosettacode)
-Rustem b       (rosettacode)
-adlesh         (github) 
+
+### Contributors
+* Codingconcepts (rosettacode)
+* Thundergnat    (rosettacode)
+* Rustem b       (rosettacode)
+* adlesh         (github)  
