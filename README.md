@@ -17,6 +17,7 @@
     * or include some kind of graphic to demonstrate the result
 * Put files in a subdirectory as equivalent to the task listing on RC
     * i.e. On RC, Averages/Pythagorean Means => progs/Averages/pyth_means.v
+* Make a to-do list issue, so people know what you're working on :)
 ### License
 This project is licensed under the [MIT](/LICENSE) license.
 
