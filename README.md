@@ -1,4 +1,4 @@
-# [V_Rosetta]
+# [V Rosetta]
 > The Collection of V programs written to solve tasks on [RosettaCode](rosettacode.org). 
 
 
