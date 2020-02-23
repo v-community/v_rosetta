@@ -14,7 +14,7 @@ fn shuffle(arr mut []int) {
 
 fn main() {
 	rand.seed(100)
-	arr := [6, 9, 1, 4]
+	mut arr := [6, 9, 1, 4]
 	println('Input: $arr')
 	shuffle(mut arr)
 	shuffle(mut arr)
