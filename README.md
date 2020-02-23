@@ -26,7 +26,8 @@ This project is licensed under the [MIT](/LICENSE) license.
 * Thundergnat    (rosettacode)
 * Rustem b       (rosettacode)
 * adlesh         (github)  
+* Delta453       (github)
 
 
 [!!]:()
-[V_Rosetta]: http://rosettacode.org/wiki/Category:Vlang
+[V Rosetta]: http://rosettacode.org/wiki/Category:Vlang
