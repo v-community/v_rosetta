@@ -22,11 +22,11 @@
 This project is licensed under the [MIT](/LICENSE) license.
 
 ### Contributors
-* Codingconcepts (rosettacode)
-* Thundergnat    (rosettacode)
+* [Codingconcepts](http://rosettacode.org/wiki/User:Codingconcepts)
+* [Thundergnat](http://rosettacode.org/wiki/User:Thundergnat)
 * Rustem b       (rosettacode)
-* adlesh         (github)  
-* Delta453       (github)
+* [Adlesh](https://github.com/adlesh)  
+* [Swastik Baranwal](https://github.com/Delta456)
 
 
 [!!]:()
