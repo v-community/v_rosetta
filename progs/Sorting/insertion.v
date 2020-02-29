@@ -1,4 +1,5 @@
 // http://rosettacode.org/wiki/Sorting_algorithms/Insertion_sort
+
 fn insertion(arr mut []int) {
 	for i in 1 .. arr.len {
 		value := arr[i]

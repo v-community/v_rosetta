@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Fibonacci_sequence
+
+
 fn fibonacci(n int) int {
 	if n == 0 || n == 1 {
 		return n

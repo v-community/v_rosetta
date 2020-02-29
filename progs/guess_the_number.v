@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Guess_the_number
+
+
 import rand
 import time
 import os

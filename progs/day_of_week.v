@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Day_of_the_week
+
+
 import time
 
 fn main() {

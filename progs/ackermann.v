@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Ackermann_function
+
+
 fn ackermann(m, n int) int {
 	if m == 0 {
 		return n + 1

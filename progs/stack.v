@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Stack
+
+
 const (
 	MaxDepth = 256
 )

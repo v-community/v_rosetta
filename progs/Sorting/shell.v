@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Sorting_algorithms/Shell_sort
+
+
 fn shell(arr mut []int, n int) {
 	mut j := 0
 	for h := n; h /= 2;  {

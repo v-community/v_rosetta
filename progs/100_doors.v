@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/100_doors
+
+
 const (
 	NbrDoors = 100
 )

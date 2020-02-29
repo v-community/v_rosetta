@@ -1,4 +1,5 @@
-// rosettacode.org/wiki/Sorting_algorithms/Quicksort
+// http://rosettacode.org/wiki/Sorting_algorithms/Quicksort
+
 fn partition(arr mut []int, low, high int) int {
 	pivot := arr[high]
 	mut i := (low - 1)

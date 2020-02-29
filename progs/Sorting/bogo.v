@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Sorting_algorithms/Bogosort
+
+
 import (
 	rand
 )

@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Factorial
+
+
 const (
 	MAX = 10
 )

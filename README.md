@@ -1,6 +1,7 @@
 # [V Rosetta]
 > The Collection of V programs written to solve tasks on [Rosetta Code]. 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 * [V](github.com/vlang/v) is listed as Vlang. V was taken already.

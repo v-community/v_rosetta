@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/FizzBuzz
+
+
 fn fizzbuzz(n int) {
 	for i := 0; i < n; i++ {
 		if i % 15 == 0 {

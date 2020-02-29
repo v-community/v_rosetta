@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Sorting_algorithms/Counting_sort
+
+
 fn counting_sort(arr mut []int, min int, max int) {
 	println('Input: ' + arr.str())
 	mut count := [0].repeat(max - min + 1)

@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Sorting_algorithms/Bubble_sort
+
+
 fn bubble(arr mut []int) {
 	println('Input: ${arr.str()}')
 	mut count := arr.len

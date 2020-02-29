@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Knuth_shuffle
+
+
 import (
 	rand
 )

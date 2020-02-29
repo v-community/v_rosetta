@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Sorting_algorithms/Cocktail_sort
+
+
 fn cocktail(arr mut []int) {
 	input := 'Input'
 	output := 'Output'

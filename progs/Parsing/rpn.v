@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Parsing/RPN_calculator_algorithm
+
+
 import math
 
 const (

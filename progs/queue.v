@@ -1,3 +1,6 @@
+// http://rosettacode.org/wiki/Queue/Definition
+
+
 const (
 	MaxDepth = 256
 )

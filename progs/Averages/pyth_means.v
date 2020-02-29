@@ -1,7 +1,4 @@
-/*
-    Pythagorean Means 
-    Compute all three of the Pythagorean Means of the set of integers 1 through 10 (inclusive).
-*/
+// http://rosettacode.org/wiki/Averages/Pythagorean_means
 import (
     arrays
     math
